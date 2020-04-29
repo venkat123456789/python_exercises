@@ -1,0 +1,3 @@
+- Interpretor vs compilation programming language
+- Basic data types
+- concatinating string values

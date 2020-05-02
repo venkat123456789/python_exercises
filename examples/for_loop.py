@@ -2,6 +2,7 @@ for count in range(15):
  print(count)
 
 
+
 # Example
 fruits = ["sumanth", "venkat", "dang"]
 for x in fruits:
